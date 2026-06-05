@@ -1,0 +1,6 @@
+{
+  "accessToken": "",
+  "defaultReadPermission": "guest",
+  "defaultWritePermission": "guest",
+  "defaultCommentPermission": "everyone"
+}

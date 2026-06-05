@@ -1,0 +1,35 @@
+es una funcion pero se denota a sub n  
+sucesion finita cuando tiene una cantidad de terminos limitados 
+asubm sera el principio y la a sub j sigue y la a sub n sera
+
+impicita (recursiva o recurrente)
+tienen rtermino general para el tipo de funciones como para cuando tengo una cuadratica dubica o aritmetica o geometrica 
+
+recursividad es simple pero consume mas 
+
+dependiendo de la situacion que tengamos nos convenga una o otra forma de encontrar mis sucesiones 
+
+como entonctrar el patron 
+1 difreencia sucesion artimetica
+2 difernecia sucesion cuadratica 
+3 diferencia seucesion cubica 
+
+
+2n-1// sera la sucecione de impares
+
+en sumatoria el n defien el numero de veces que hago una sumatoria
+
+n es seria hasta  bn= sumatoria arriva hasta n y i = 1 el arranque d emi valor 
+
+conjetura 
+induccion 
+paso base / la demostracion
+paso de induccion / demostracion que se cumple para otro valor 
+
+
+es imposible hacer la demostracion si mi hipotesis no es correcta 
+
+(hipostesis) => (tesis)
+
+hipostesis inductiva 
+
